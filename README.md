@@ -1,6 +1,6 @@
 ## Hey, I'm Caleb
 
-I'm a Penn State graduate who takes front-end software engineering contracts, rock climbs across the country, authors *The Earth Kingdom Urchins*, and writes, produces, and performs music, which is distributed to all major platforms. I tend to keep my art and writing [here](https://sites.google.com/view/calebketterer?usp=sharing&pli=1&authuser=0).
+I'm a Penn State graduate who takes front-end software engineering contracts, rock climbs across the country, authors *The Earth Kingdom Urchins*, and writes, performs, and produces publicly distributed music. I tend to keep my art, writing, and music [here](https://sites.google.com/view/calebketterer?usp=sharing&pli=1&authuser=0).
 
 My most recent personal software project is https://calebketterer.github.io, where I host various games, animations, and links.
 
