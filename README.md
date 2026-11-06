@@ -4,7 +4,7 @@ I'm a Penn State graduate who takes front-end software engineering contracts, ro
 
 My most recent personal software project is https://calebketterer.github.io, where I host various games, animations, and links.
 
-Feel free to contact me via email at [calebketterer8@gmail.com](calebketterer8@gmail.com).
+Feel free to contact me via email at calebketterer8@gmail.com.
 
 <!--
 **calebketterer/calebketterer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
